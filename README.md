@@ -3,6 +3,9 @@
 ## Task Overview
 - Created a new folder named "SRE_FUNDAMENTALS_WITH_GOOGLE"
 - Developed an SLO document for UpCommerce based on the provided scenario
+![image alt](https://github.com/tundedamian/SRE_FUNDAMENTALS_WITH_GOOGLE/blob/main/Screenshot%20(1451).png?raw=true)
+![image_alt](https://github.com/tundedamian/SRE_FUNDAMENTALS_WITH_GOOGLE/blob/main/Screenshot%20(1450).png?raw=true)
+
 - Calculated the monthly error budget as required
 - Explained the utility of the error budget for service reliability
 
